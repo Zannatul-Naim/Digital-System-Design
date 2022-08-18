@@ -25,3 +25,7 @@ Digital System Design Lab verilog codes
   - [Full Adder (without using half adder)](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder/fullAdder.v)
   - [4 Bit Ripple Carry Adder](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder/4_bit_ripple_carry_adder.v)
   - [4 Bit Carry Lookahead Adder](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder/carry_look_ahead_adder.v)
+
+
+### Flip Flops
+  - [JK FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/jk_flipflop.v)
