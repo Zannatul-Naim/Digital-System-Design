@@ -28,4 +28,10 @@ Digital System Design Lab verilog codes
 
 
 ### Flip Flops
+
   - [JK FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/jk_flipflop.v)
+
+
+### Counters
+  
+  - [4 Bit Ripple Carry Counter](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Counter/4_bit_ripple_carry_counter.v)
