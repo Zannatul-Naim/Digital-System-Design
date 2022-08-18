@@ -18,3 +18,10 @@ Digital System Design Lab verilog codes
   - [Binary to Gray conversion](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Code-Converter/binary_to_gray.v)
   - [Gray to Binary conversion](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Code-Converter/gray_to_binary.v)
 
+
+### Adder
+  - [Half Adder](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder/half_adder.v)
+  - [Full Adder (using half adder)](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder/full_adder.v)
+  - [Full Adder (without using half adder)](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder/fullAdder.v)
+  - [4 Bit Ripple Carry Adder](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder/4_bit_ripple_carry_adder.v)
+  - [4 Bit Carry Lookahead Adder](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder/carry_look_ahead_adder.v)
