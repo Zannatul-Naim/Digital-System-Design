@@ -30,6 +30,8 @@ Digital System Design Lab verilog codes
 ### Flip Flops
 
   - [JK FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/jk_flipflop.v)
+  - [D FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/d_flipflop.v)
+  - [T FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/d_flipflop.v)
 
 
 ### Counters
