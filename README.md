@@ -36,6 +36,9 @@ Digital System Design Lab verilog codes
   - [4 Bit Ripple Carry Adder](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder/4_bit_ripple_carry_adder.v)
   - [4 Bit Carry Lookahead Adder](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder/carry_look_ahead_adder.v)
 
+### Subtractor
+  - [Half Subtractor](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Subtractor/half_subtractor.v)
+  - [Full Subtractor](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Subtractor/full_subtractor.v)
 
 ### Counters
   
