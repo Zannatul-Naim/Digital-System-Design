@@ -1,3 +1,6 @@
+
+// Sequence : 0 -> 4 -> 7 -> 8 -> 10 -> 13 -> 9 -> 15 -> 0
+
 module jkff(q, qbar, j, k, clear, clk);
 
     input j, k, clear, clk;
@@ -20,6 +23,7 @@ module jkff(q, qbar, j, k, clear, clk);
     nand nand8(qbar, n6_out, q, clear);
     
 endmodule
+
 
 module random_counter(q, clear, clk);
     
