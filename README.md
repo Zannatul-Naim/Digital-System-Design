@@ -40,6 +40,17 @@ Digital System Design Lab verilog codes
   - [Half Subtractor](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Subtractor/half_subtractor.v)
   - [Full Subtractor](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Subtractor/full_subtractor.v)
 
+### Multiplexer
+  - [2x1 MUX](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Multiplexer/2x1_multiplexer.v)
+  - [Enable 2x1 MUX](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Multiplexer/enable_2x1_multiplexer.v)
+  - [4x1 MUX](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Multiplexer/4x1_multiplexer.v)
+  - [4x1 MUX using 2x1 MUX](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Multiplexer/4x1_mux_using_2x1.v)
+  - [8x1 MUX](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Multiplexer/8x1_mux.v)
+
+
+### Multiplier
+  - [2x2 Array Multiplier](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Multiplier/2x2_multiplier.v) 
+
 ### Counters
   
   - [4 Bit Ripple Carry Counter](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Counter/4_bit_ripple_carry_counter.v)
