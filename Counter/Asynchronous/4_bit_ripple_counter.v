@@ -1,4 +1,5 @@
-module ripple_carry_counter(q, q_bar, clear, clk);
+
+module ripple_counter(q, q_bar, clear, clk);
   
 	input clk, clear;
 	output [3:0] q, q_bar;
