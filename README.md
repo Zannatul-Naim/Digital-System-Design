@@ -39,6 +39,9 @@ Digital System Design Lab verilog codes
 ### Subtractor
   - [Half Subtractor](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Subtractor/half_subtractor.v)
   - [Full Subtractor](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Subtractor/full_subtractor.v)
+  
+### Comparator
+  - [2 bit comparator](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Comparator/2_bit_comparator.v)
 
 ### Multiplexer
   - [2x1 MUX](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Multiplexer/2x1_multiplexer.v)
