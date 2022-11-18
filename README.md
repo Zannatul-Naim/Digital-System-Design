@@ -54,6 +54,7 @@ Digital System Design Lab verilog codes
 
   - [JK FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/jk_flipflop.v)
   - [D FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/d_flipflop.v)
+  - [D flipflop using SR flipflop with clear input](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/d_flipflop_with_clear.v)
   - [T FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/t_flipflop.v)
   - [Master Slave JK flipflop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/master_slave_jk_flipflp.v)
 
