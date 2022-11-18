@@ -19,14 +19,6 @@ Digital System Design Lab verilog codes
   - [Gray to Binary conversion](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Code-Converter/gray_to_binary.v)
   - [BCD to Excess-3](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Code-Converter/bcd_to_excess3.v)
   - [Excess-3 to BCD](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Code-Converter/excess3_to_bcd.v)
-  
-
-### Flip Flops
-
-  - [JK FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/jk_flipflop.v)
-  - [D FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/d_flipflop.v)
-  - [T FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/t_flipflop.v)
-  - [Master Slave JK flipflop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/master_slave_jk_flipflp.v)
 
 
 ### Adder
@@ -39,6 +31,9 @@ Digital System Design Lab verilog codes
 ### Subtractor
   - [Half Subtractor](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Subtractor/half_subtractor.v)
   - [Full Subtractor](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Subtractor/full_subtractor.v)
+
+### Adder-Subtractor
+  - [4 bit adder subtractor](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Adder-Subtractor/adder_subtractor_4_bit.v)
   
 ### Comparator
   - [2 bit comparator](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Comparator/2_bit_comparator.v)
@@ -53,6 +48,15 @@ Digital System Design Lab verilog codes
 
 ### Multiplier
   - [2x2 Array Multiplier](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Multiplier/2x2_multiplier.v) 
+
+
+### Flip Flops
+
+  - [JK FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/jk_flipflop.v)
+  - [D FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/d_flipflop.v)
+  - [T FlipFlop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/t_flipflop.v)
+  - [Master Slave JK flipflop](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/FlipFlops/master_slave_jk_flipflp.v)
+
 
 ### Counters
   - <b>Synchronous</b>
