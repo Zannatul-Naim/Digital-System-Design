@@ -61,7 +61,8 @@ Digital System Design Lab verilog codes
 
 ### Counters
   - <b>Synchronous</b>
-    - [4 bit random sequence counter](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Counter/Synchronous/random_sequence_sync_counter_4_bit.v)
+    - [4 bit random sequence](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Counter/Synchronous/random_sequence_sync_counter_4_bit.v)
+    - [3 Bit Synchronous Up/Down](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Counter/Synchronous/3_bit_Synchronous_up-down_counter.v)
     
   - <b>Asynchronous</b>
     - [4 bit ripple counter or mod-16 counter](https://github.com/Zannatul-Naim/Digital-System-Design/blob/main/Counter/Asynchronous/4_bit_ripple_counter.v)
